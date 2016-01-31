@@ -94,7 +94,7 @@ fBodyBodyGyroJerkMagMeanFreq
 Activity Labels
 ---------------
 =================================================================
-Value   Label                 Description (While conduting test)
+Value   Label                 Description (While conducting test)
 =================================================================
 1       WALKING               Walking 
 2       WALKING_UPSTAIRS      Climbing Staircase
